@@ -1,0 +1,53 @@
+.header{
+    color: black;
+    font-size: 25px;
+    box-shadow: 5px 5px 5px rgb(248 , 106 , 106);
+}
+
+.header:hover{
+    width: 220px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link {
+    font-size: 20px;
+    background: white;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#back_btn{
+    background-color: black;
+    color: white;
+    margin-left: 1850px;
+    font-size: 17px;
+    margin-bottom: 250px;
+}
